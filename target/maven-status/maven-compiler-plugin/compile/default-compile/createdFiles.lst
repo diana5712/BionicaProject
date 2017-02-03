@@ -1,0 +1,8 @@
+com/bionic/edu/proc/Article.class
+com/bionic/edu/proc/ApplicationContextConfig.class
+com/bionic/edu/proc/ArticleDao.class
+com/bionic/edu/proc/ArticleService.class
+com/bionic/edu/proc/SpringWebAppInitializer.class
+com/bionic/edu/proc/ArticleServiceImpl.class
+com/bionic/edu/web/TestController.class
+com/bionic/edu/proc/ArticleDaoImpl.class
